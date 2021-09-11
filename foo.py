@@ -1,2 +1,2 @@
-def do_something(is_true):
+def do_something():
     pass
