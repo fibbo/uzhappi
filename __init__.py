@@ -1,0 +1,1 @@
+from uzhappi import foo
